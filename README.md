@@ -124,14 +124,6 @@ Me chamo Milena Arruda, tenho 22 anos e sou de Campinas. Atualmente estou no úl
     src="https://github-readme-stats.vercel.app/api?username=milenaleitesilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="110" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaleitesilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 <br/>
 <br/>
