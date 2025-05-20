@@ -4,6 +4,13 @@
 
 Me chamo Milena Arruda, tenho 22 anos e sou de Campinas. Atualmente estou no último ano da faculdade de Ciência de Dados, pela Univesp. Tenho 3 anos de experiência na área de ciência de dados, porém, através de diversos cursos, estou buscando uma oportunidade para ingressar na área de monitoração e infraestrutura. Nesta página contém o projeto que estou trabalhando neste momento: instalação e configuração de servidor Linux por Virtual Machine, onde aprendo a lidar com as ferramentas de monitoração mais usadas como Zabbix, Grafana, Data Dog.
 
+- 📫 How to reach me **milena.als14@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/milena-arruda-672677201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milena-arruda-672677201/" height="30" width="40" /></a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -106,9 +113,39 @@ Me chamo Milena Arruda, tenho 22 anos e sou de Campinas. Atualmente estou no úl
 />
 <br/>
 <br/>
+### 📊 Estatísticas
 
----
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
-## Servidor Linux
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+### 🖥️ Servidor Linux
 
