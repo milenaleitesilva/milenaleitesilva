@@ -120,6 +120,8 @@ Me chamo Milena Arruda, tenho 22 anos e sou de Campinas. Atualmente estou no úl
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br/>
+<br/>
 
-<br/>
-<br/>
+## Servidor Linux
+
