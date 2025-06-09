@@ -140,7 +140,7 @@ Me chamo Milena Arruda, tenho 22 anos e sou de Campinas. Atualmente estou no úl
 Se deseja me conhecer como profissional, abaixo segue meus projetos.
 
 <p>
-    <a href="https://github.com/milenaleitesilva/monitoramento="_blank">Monitoramento</a> 
+    <a href="https://github.com/milenaleitesilva/monitoramento" target_blank">Monitoramento</a> 
   </p>
 
 
