@@ -135,7 +135,7 @@ Me chamo Milena Arruda, tenho 22 anos e sou de Campinas. Atualmente estou no úl
 <br/>
 <br/>
 
-### 🖥️ Projeto
+### 🖥️ Projetos
 
 **`portifólio em construção`**
 
