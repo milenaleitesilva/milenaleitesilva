@@ -2,7 +2,7 @@
 
 **`Ciêntista de Dados e Analista NOC`**
 
-Me chamo Milena Arruda, tenho 22 anos e sou de Campinas. Atualmente estou no último ano da faculdade de Ciência de Dados, pela Univesp. Tenho 3 anos de experiência na área de ciência de dados, porém, através de diversos cursos, estou buscando uma oportunidade para ingressar na área de monitoração e infraestrutura. Nesta página contém o projeto que estou trabalhando neste momento: instalação e configuração de servidor Linux por Virtual Machine, onde aprendo a lidar com as ferramentas de monitoração mais usadas como Zabbix, Grafana, Data Dog.
+Me chamo Milena Arruda, tenho 22 anos e sou de Campinas. Atualmente estou no último ano da faculdade de Ciência de Dados, pela Univesp. Tenho 3 anos de experiência na área de ciência de dados, porém, através de diversos cursos, estou buscando uma oportunidade para ingressar na área de monitoração e infraestrutura. Nesta página me apresento de uma forma na qual os recrutadores possam visualizar melhor meu trabalho e experiências.
 
 - 📫 How to reach me **milena.als14@gmail.com**
 
