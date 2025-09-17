@@ -143,6 +143,6 @@ Se deseja me conhecer como profissional, abaixo segue meus projetos.
     <a href="https://github.com/milenaleitesilva/monitoramento" target_blank">Projeto Observability Zabbix</a> 
   </p>
 <p>
-    <a href="https://github.com/milenaleitesilva/sqlbancodedados" target_blank">Data Managment</a> 
+    <a href="https://github.com/milenaleitesilva/sqlbancodedados" target_blank">SQL Para Banco de Dados</a> 
   </p>
 
